@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label for the LineageOS system components when they are shown to the user. -->
-  <string name="lineageos_system_label">LineageOS-System</string>
+  <string name="lineageos_system_label">AOSGP-System</string>
   <!-- Labels for the MODIFY_PROFILES permission. -->
   <string name="permlab_modifyProfiles">Systemprofile ändern</string>
   <string name="permdesc_modifyProfiles">Ermöglicht der App, Systemprofile zu ändern.</string>
@@ -127,9 +127,9 @@
   <!-- About device screen, LineageOS API Level -->
   <string name="lineage_api_level">LineageOS API-Level</string>
   <!-- About device screen, LineageOS updates -->
-  <string name="lineage_updates">LineageOS-Updates</string>
+  <string name="lineage_updates">AOSGP-Updates</string>
   <!-- About device screen, LineageOS version -->
-  <string name="lineage_version">LineageOS-Version</string>
+  <string name="lineage_version">AOSGP-Version</string>
   <!-- General purpose use "unknown" string -->
   <string name="unknown">Unbekannt</string>
   <!-- Long-press back kill application -->
